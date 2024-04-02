@@ -396,11 +396,11 @@ The collected data and their according usage are explained within [privacy.md](p
 
 ## 🙏 Credits
 
-At this point we want to say thanksa to Risto Lahtela from Helsinki who created the original codebase called
-SQL-Training-Game. This work is a customisation Risto Lahtela work adapoted to the needs of the FHNW. One can diff the
+At this point we want to say thanksa to Aurora Lahtela from Helsinki who created the original codebase called
+SQL-Training-Game. This work is a customisation Aurora Lahtela work adapoted to the needs of the FHNW. One can diff the
 changes between the original code base and the one of FHNW-SQL-Training-Game through the created tag
-called `Rsl1122/SQL-Training-Game-e755cc5` representing the state of the commit `e755cc5`
-.  [Compare the changes](https://github.com/FHNW-SQL-Training-Game/FHNW-SQL-Training-Game.github.io/compare/Rsl1122/SQL-Training-Game-e755cc5...main)
+called `AuroraLS3/SQL-Training-Game-e755cc5` representing the state of the commit `e755cc5`
+.  [Compare the changes](https://github.com/FHNW-SQL-Training-Game/FHNW-SQL-Training-Game.github.io/compare/AuroraLS3/SQL-Training-Game-e755cc5...main)
 .
 
-- [Rsl1122/SQL-Training-Game](https://github.com/Rsl1122/SQL-Training-game)
+- [AuroraLS3/SQL-Training-Game](https://github.com/AuroraLS3/SQL-Training-game)
